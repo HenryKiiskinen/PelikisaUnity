@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harkka2d.Plugins", "Harkka2d.Plugins.csproj", "{4FDC1973-6C9B-5AFC-A7A2-FDCB8358C2F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harkka2d", "Harkka2d.csproj", "{889FC896-082A-8A73-44B6-61854110B2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harkka2d.Editor.Plugins", "Harkka2d.Editor.Plugins.csproj", "{0310D1AC-26DA-9CF5-65C8-6C8D5037C399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FDC1973-6C9B-5AFC-A7A2-FDCB8358C2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDC1973-6C9B-5AFC-A7A2-FDCB8358C2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDC1973-6C9B-5AFC-A7A2-FDCB8358C2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDC1973-6C9B-5AFC-A7A2-FDCB8358C2F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889FC896-082A-8A73-44B6-61854110B2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889FC896-082A-8A73-44B6-61854110B2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889FC896-082A-8A73-44B6-61854110B2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889FC896-082A-8A73-44B6-61854110B2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0310D1AC-26DA-9CF5-65C8-6C8D5037C399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0310D1AC-26DA-9CF5-65C8-6C8D5037C399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0310D1AC-26DA-9CF5-65C8-6C8D5037C399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0310D1AC-26DA-9CF5-65C8-6C8D5037C399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
